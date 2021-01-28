@@ -1,2 +1,2 @@
-# mmp
-A mindmap framework build with React.
+# MMP (for MindMaP)
+MMP is a mind map framework build with React.
